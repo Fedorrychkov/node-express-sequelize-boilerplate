@@ -1,5 +1,5 @@
-# svr marketplace SERVER
- `npm run run-server:dev` for start development
+# Server
+ `npm start` for start development
 
  ## logs
 For colorfull logs i use chalk library, [here](https://github.com/chalk/chalk).

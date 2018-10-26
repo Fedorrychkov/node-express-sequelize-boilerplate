@@ -1,6 +1,6 @@
 {
   "name": "node-express-sequelize-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boilerplate project for simple start with express, node and sequelize orm with migrations and seeds",
   "main": "index.js",
   "scripts": {
