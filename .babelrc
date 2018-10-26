@@ -1,0 +1,14 @@
+{
+    "presets": [
+        ["env", {
+          "targets": {
+            "node": "current"
+          }
+          }],
+        "stage-1"
+      ],
+    "plugins": [
+        "transform-decorators-legacy",
+        "transform-runtime"
+    ]
+}
